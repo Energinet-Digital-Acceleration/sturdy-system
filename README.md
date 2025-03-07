@@ -16,7 +16,7 @@
 
 * [x] Don't allow hardcoded credentials.
 * [x] Don't allow sensitive data. 
-* [x] Vet who is allowed to make pull requests (Energinet employees only to start of with)
+* [x] Vet who is allowed to make pull requests (Energinet employees only getting started)
 
 # Licenses
 
