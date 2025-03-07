@@ -102,3 +102,9 @@ Rumors has it, that Apache 2.0 has been veted to be used. We need to find docume
 | **Apache 2.0**         | - Includes an explicit patent grant, reducing legal risk.  <br> - Allows commercial use and modifications.  <br> - Requires modifications to include attribution. | - More complex than MIT due to additional clauses.  <br> - Some businesses may find patent clause restrictive. |
 | **Business Source License (BSL)** | - Allows source code visibility while restricting certain commercial uses.  <br> - Can later convert to an open-source license (e.g., after X years).  <br> - Good for monetization while still sharing code. | - Not OSI-approved, so not considered true open source.  <br> - Can limit adoption by open-source communities.  <br> - Legal complexity around usage restrictions. |
 | **No License**         | - Keeps the code private by default (all rights reserved).  <br> - Maintains full control over who can use the software. | - Legally, others cannot use or modify the code without explicit permission.  <br> - Discourages contributions and public adoption.  <br> - Potential legal uncertainty in different jurisdictions. |
+
+# Similar companies that does open source
+
+* https://www.alliander.com/en/open-source/ 
+* https://github.com/eliagroup
+* https://www.elia.be/en/grid-data/open-data
