@@ -108,3 +108,4 @@ Rumors has it, that Apache 2.0 has been veted to be used. We need to find docume
 * https://www.alliander.com/en/open-source/ 
 * https://github.com/eliagroup
 * https://www.elia.be/en/grid-data/open-data
+* https://www.energyweb.org/
